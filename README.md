@@ -1,2 +1,2 @@
-# U-u-Y-netim-Sistemi
+# Ucus-Yonetim-Sistemi
 UML
